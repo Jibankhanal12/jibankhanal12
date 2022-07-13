@@ -3,7 +3,7 @@
 
 - 🔭 I’m interested in **Web Application development and Mobile Application Development**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Flutter Dart Firebase**
 
