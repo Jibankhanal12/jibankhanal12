@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Flutter Dart Firebase**
+- 💬 Ask me about **QA Auttomation and Selenium**
 
-- 📫 How to reach me **sisirkhanal20@gmail.com**
+- 📫 How to reach me **jiban.khanal56@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
