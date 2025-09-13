@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm jiban khanal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibankhanal12&label=Profile%20views&color=0e75b6&style=flat" alt="jibankhanal12" /> </p>
 
-- 🔭 I’m interested in **Web Application development and Mobile Application Development**
+- 🔭 I’m interested in **Quality Assurance and Automation**
 
-- 🌱 I’m currently learning **Python with selenium**
+- 🌱 I’m currently learning **Playwright with TypeScript**
 
-- 💬 Ask me about **Python and Selenium**
+- 💬 Ask me about **Playwright**
 
 - 📫 How to reach me **jiban.khanal56@gmail.com**
 
